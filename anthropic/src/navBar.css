@@ -1,0 +1,27 @@
+.navbar {
+    /* background-color: orange !important; */
+    height: 80px;
+    display: flex;
+    width: 100vw;
+    padding: 0 2rem;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.nav_logo {
+    height: 20px;
+}
+
+@media (min-width: 768px) {   
+    .navbar-collapse {
+        /* background-color: green !important; */
+        position: absolute;
+        right: 20px;
+    }
+
+    .nav-item {
+        /* background-color: yellow; */
+        margin: 0 15px;
+    }
+}

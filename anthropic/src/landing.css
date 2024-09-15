@@ -1,0 +1,32 @@
+.land-con {
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.content {
+    /* background-color: green; */
+    width: 40%;
+    padding: 15px;
+}
+
+.main-head {
+    font-family: "Roboto Slab", serif;
+    font-size: 90px;
+}
+
+.main-content {
+    font-size: 30px;
+    font-family: "Playfair Displa", serif;
+    font-weight: 400;
+}
+
+.land-btns {
+    margin-right: 20px;
+    padding: 10px 25px;
+}
+
+.btn-light {
+    border: 1px black solid;
+}
