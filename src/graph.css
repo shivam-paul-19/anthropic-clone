@@ -1,0 +1,30 @@
+.graph-sec {
+    display: flex;
+    padding: 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.badge {
+    background-color: rgb(217, 119, 87) !important;
+}
+
+.graph-head {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.graph-para {
+    font-size: 25px;
+    font-family: "Playfair Displa", serif;
+    font-weight: 300;
+}
+
+.graph-con {
+    width: 50%;
+}
+
+.btn {
+    margin-right: 20px;
+    padding: 10px 25px;
+}

@@ -1,0 +1,16 @@
+.capa-card {
+    /* border: 1px solid black; */
+    margin: 15px;
+    width: 20%;
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.card-con {
+    font-size: 20px;
+    font-family: "Playfair Displa", serif;
+    font-weight: 300;
+}

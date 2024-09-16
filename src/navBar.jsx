@@ -30,10 +30,10 @@ function NavBar() {
                     <a class="nav-link" href="#">Company</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" aria-disabled="true">Careers</a>
+                    <a class="nav-link" href="#">Careers</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" aria-disabled="true">News</a>
+                    <a class="nav-link" href="#">News</a>
                     </li>
                 </ul>
                 </div>

@@ -1,0 +1,13 @@
+.capa {
+    text-align: center;
+}
+
+.capa-head {
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.capa-content {
+    display: flex;
+    justify-content: space-evenly;
+}
