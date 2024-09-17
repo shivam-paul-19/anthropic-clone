@@ -1,0 +1,32 @@
+.why-card {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+.why-card-con {
+    width: 30%;
+}
+
+.why-card-img {
+    height: 400px;
+    width: 400px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 30px;
+}
+
+.why-card-img h4 {
+    font-weight: 700;
+}
+
+.why-card-con h3 {
+    font-weight: 700;
+}
+
+.why-card-con p {
+    font-size: 20px;
+    font-family: "Playfair Displa", serif;
+    font-weight: 300;
+}

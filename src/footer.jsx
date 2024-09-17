@@ -5,8 +5,8 @@ function Footer() {
     const items = ["Claude", "API", "Team", "Pricing", "Research", "Company", "Customers", "News", "Careers"];
     const items1 = ["Press Inquiries", "Support", "Status", "Twitter", "LinkedIn", "Availability"];
     const items2 = [
-        "Terms of Service – Consumer",
-        "Terms of Service – Commercial",
+        "Terms of Service - Consumer",
+        "Terms of Service - Commercial",
         "Privacy Policy",
         "Usage Policy",
         "Responsible Disclosure Policy",

@@ -4,6 +4,9 @@ import LandingSection from "./landingSec"
 import CapabilitySection from "./capabilitySec"
 import Footer from "./footer"
 import GraphSection from "./graph"
+import LowerCards from "./lowerCards"
+import DownloadSection from "./downloadSec"
+import WhySection from "./whySec"
 
 function App() {
   return (
@@ -12,6 +15,9 @@ function App() {
       <LandingSection /><br /><br /><br />
       <CapabilitySection />
       <GraphSection />
+      <WhySection /><br /><br />
+      <LowerCards /><br /><br /><br />
+      <DownloadSection /><br /><br /><br />
       <Footer />
     </div>
   )

@@ -1,0 +1,47 @@
+.low-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    /* background-color: yellow; */
+    width: 80%;
+    padding: 20px;
+}
+
+.inner {
+    width: 80%;
+    padding: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.l {
+    flex-direction: row-reverse;
+}
+
+.inner-f {
+    background-color: rgb(240, 239, 234);
+}
+
+.inner-l {
+    background-color: black;
+    color: white;
+}
+
+.inner-con {
+    width: 50%;
+}
+
+.in-head {
+    font-size: 30px;
+}
+
+.in-con {
+    font-size: 20px;
+    font-family: "Playfair Displa", serif;
+    font-weight: 300;
+}

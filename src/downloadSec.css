@@ -1,0 +1,29 @@
+.down {
+    padding: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.down-img {
+    height: 450px;
+    width: 650px;
+    border-radius: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fb8a504669acafa29d533762857c374cd7c2ad912-2112x1488.png&w=3840&q=75");
+}
+
+.down-con {
+    width: 45%;
+}
+
+.down-para {
+    font-family: "Playfair Displa", serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.down-head {
+    font-weight: 700;
+}
