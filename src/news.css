@@ -1,0 +1,9 @@
+.news-cards-sec {
+    display: flex;
+    justify-content: space-between;
+}
+
+.news-sec {
+    background-color: rgb(240, 239, 234);
+    padding: 50px;
+}

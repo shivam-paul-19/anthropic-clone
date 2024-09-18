@@ -13,7 +13,7 @@ function NavBar() {
                 <ul class="navbar-nav">
                     <li class="nav-item">
                     <div class="dropdown">
-                        <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Claude</button>
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Claude</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">Overview</a></li>
                             <li><a class="dropdown-item" href="#">Team</a></li>

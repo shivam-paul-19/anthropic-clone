@@ -1,0 +1,28 @@
+.model {
+    display: flex;
+    justify-content: center;
+}
+
+.model-box {
+    background-color: yellow;
+    display: flex;
+    justify-content: start;
+    height: 600px;
+    align-items: end;
+    width: 90%;
+}
+
+.inner-model-box {
+    background-color: green;
+    display: flex;
+    justify-content: start;
+    height: 400px;
+    align-items: end;
+    width: 60%;
+}
+
+.inner-model-box-2 {
+    background-color: blue;
+    height: 230px;
+    width: 60%;
+}
