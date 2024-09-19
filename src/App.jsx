@@ -19,6 +19,7 @@ function App() {
       <LandingSection /><br /><br /><br />
       <CapabilitySection />
       <GraphSection />
+      <Model /><br /><br /><br /><br />
       <WhySection /><br /><br /><br /><br /><br />
       <Marque /><br /><br /><br /><br /><br />
       <LowerCards /><br /><br /><br />
