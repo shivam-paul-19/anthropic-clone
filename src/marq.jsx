@@ -8,7 +8,7 @@ function Marque() {
                 with Claude</h1><br /><br />
             <CompanyMarquee />
             <br /><br />
-            <button type="button" class="btn btn-outline-dark">Read customer stories</button>
+            <a href="https://www.anthropic.com/customers"><button type="button" class="btn btn-outline-dark">Read customer stories</button></a>
         </div>
     )
 }

@@ -16,24 +16,24 @@ function NavBar() {
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Claude</a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="#">Overview</a></li>
-                            <li><a class="dropdown-item" href="#">Team</a></li>
-                            <li><a class="dropdown-item" href="#">Enterprise</a></li>
-                            <li><a class="dropdown-item" href="#">API</a></li>
-                            <li><a class="dropdown-item" href="#">Pricing</a></li>
+                            <li><a class="dropdown-item" href="https://www.anthropic.com/team">Team</a></li>
+                            <li><a class="dropdown-item" href="https://www.anthropic.com/enterprise">Enterprise</a></li>
+                            <li><a class="dropdown-item" href="https://www.anthropic.com/api">API</a></li>
+                            <li><a class="dropdown-item" href="https://www.anthropic.com/pricing">Pricing</a></li>
                         </ul>
                         </div>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Research</a>
+                    <a class="nav-link" href="https://www.anthropic.com/research">Research</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Company</a>
+                    <a class="nav-link" href="https://www.anthropic.com/company">Company</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Careers</a>
+                    <a class="nav-link" href="https://www.anthropic.com/careers">Careers</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">News</a>
+                    <a class="nav-link" href="https://www.anthropic.com/news">News</a>
                     </li>
                 </ul>
                 </div>

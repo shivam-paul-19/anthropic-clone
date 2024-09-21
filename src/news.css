@@ -7,3 +7,8 @@
     background-color: rgb(240, 239, 234);
     padding: 50px;
 }
+
+.see-all {
+    text-decoration: none;
+    color: rgb(163, 162, 153);
+}
