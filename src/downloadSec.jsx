@@ -7,9 +7,9 @@ function DownloadSection() {
             <div className="down-con">
                 <h4 className="down-head">Take Claude with you</h4>
                 <p className="down-para">Talk to Claude, anywhere you go. Brainstorm ideas, get answers, and analyze images on the go. The Claude apps put the power of frontier intelligence in your back pocket.</p>
-                <a href="https://www.anthropic.com/android"><img src="./assets/gplay.png" alt="" height={50}/></a>
+                <a href="https://www.anthropic.com/android"><img src="https://i.ibb.co/fSbGmS5/gplay.png" alt="" height={50}/></a>
                 &nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://www.anthropic.com/ios"><img src="./assets/App-Store.png" alt="" height={50}/></a>
+                <a href="https://www.anthropic.com/ios"><img src="https://i.ibb.co/6XmJPFj/App-Store.png" alt="" height={50}/></a>
             </div>
         </div>
     )

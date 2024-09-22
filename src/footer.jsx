@@ -16,7 +16,7 @@ function Footer() {
       
     return (
         <div className="footer">
-            <img src="./assets/anth-logo-white.png" alt="" height={35}/>
+            <img src="https://i.ibb.co/d2DX6Yr/anth-logo-white.png" alt="" height={35}/>
             <div className="link-sec">
                 <FooterContent links={items}/>
                 <FooterContent links={items1}/>
